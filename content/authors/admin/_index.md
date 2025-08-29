@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Naveen Sanjaya Basnayake
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Naveen
-last_name: Basnayake
+first_name: Shiung Wu
+last_name: Chien
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  University of Moratuwa
-    url: https://uom.lk/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,22 +37,22 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/NaveenSanjaya
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/naveensanjaya_
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/NaveenSanjaya
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/NaveenSanjaya
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Image Processing and Machine Vision
-  - Artificial Inteligence and Machine Learning
-  - Cyber Security
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
@@ -64,29 +64,28 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area:  University of Moratuwa
-    institution: B.Sc. Engineering (Hons.) in Electronic and Telecommunication Engineering
-    date_start: March 2023
-    date_end: Present
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.84/4.0
+      GPA: 3.8/4.0
 
       Courses included:
-      -  Image Processing and Machine Vision
-      - Pattern Recognition
-      -  Signals and Systems
-      - Electronic Circuits and Analysis,
-  - area: Dharmaraja College
-    institution: Kandy, Sri Lanka
-    date_start: January 2013
-    date_end: September 2022
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Z-score- 2.484; District Rank- 11; Island Rank- 164
+      GPA: 3.4/4.0
       
       Courses included:
-      - Combined Mathematics
-      - Physics
-      - Chemistry
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -147,9 +146,9 @@ skills:
 
 languages:
   - name: English
-    percent: 75
-  - name: Sinhala
     percent: 100
+  - name: Chinese
+    percent: 75
   - name: Portuguese
     percent: 25
 
@@ -187,4 +186,4 @@ awards:
 
 ## About Me
 
-I'm Naveen, a university student pursuing an Electronic and Telecommunication Engineering degree at the University of Moratuwa. I have a passion for developing Machine Learning algorithms that can solve real-world problems and make a positive impact. My skills in various programming languages and frameworks, such as SQL, Python, C++, Java, TensorFlow, and PyTorch, enable me to design, implement, and optimize Machine Learning algorithms for different applications and domains. In addition to my engineering studies, I am also learning Cybersecurity, another field that fascinates me. By combining my knowledge and skills in both domains, I can create innovative solutions that are secure, efficient, and reliable. My ultimate goal is to not only advance technology but also improve the lives of others.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
