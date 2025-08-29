@@ -3,7 +3,7 @@
 title: Naveen Sanjaya Basnayake
 
 # Name pronunciation (optional)
-name_pronunciation: Naveen Sanjaya Basnayake
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Naveen
@@ -37,13 +37,13 @@ profiles:
     url: 'mailto:naveensanjayab@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/NaveenBasnayake
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/naveensanjaya_
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/NaveenSanjaya
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/NaveenSanjaya
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
